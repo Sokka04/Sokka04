@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-label="Séparateur">
+  <defs>
+    <linearGradient id="left" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="566" y2="0">
+      <stop offset="0" stop-color="#7F1D1D" stop-opacity="0"/>
+      <stop offset="0.6" stop-color="#7F1D1D"/>
+      <stop offset="1" stop-color="#C9A227"/>
+    </linearGradient>
+    <linearGradient id="right" gradientUnits="userSpaceOnUse" x1="1160" y1="0" x2="634" y2="0">
+      <stop offset="0" stop-color="#7F1D1D" stop-opacity="0"/>
+      <stop offset="0.6" stop-color="#7F1D1D"/>
+      <stop offset="1" stop-color="#C9A227"/>
+    </linearGradient>
+  </defs>
+
+  <line x1="40" y1="18" x2="566" y2="18" stroke="url(#left)" stroke-width="1.5"/>
+  <line x1="634" y1="18" x2="1160" y2="18" stroke="url(#right)" stroke-width="1.5"/>
+
+  <!-- Losanges -->
+  <path d="M578,18 L582,14 L586,18 L582,22 Z" fill="#C9A227"/>
+  <path d="M614,18 L618,14 L622,18 L618,22 Z" fill="#C9A227"/>
+
+  <!-- Pièce de shōgi miniature -->
+  <polygon points="600,5 609,9.5 611,30 589,30 591,9.5" fill="none" stroke="#C9A227" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="600" cy="19" r="3" fill="#7F1D1D"/>
+</svg>
