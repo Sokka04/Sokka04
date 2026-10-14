@@ -3,9 +3,9 @@
 <!-- HERO BANNER UNIQUE : BLENDED EMPEROR BANNER (AKASHI SEIJŪRŌ × SARAMBA YOHANN YAWO) -->
 <img src="./assets/images/hero-banner.png" width="100%" alt="Saramba Yohann Yawo · The Tactical Emperor" />
 
-<!-- TYPING DACTYLOGRAPHIÉ ÉPURÉ -->
+<!-- TYPING DACTYLOGRAPHIÉ ÉPURÉ & OPTIMISÉ (PLEINE LARGEUR ET FLUIDE) -->
 <a href="https://github.com/Sokka04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1400&color=EF4444&center=true&vCenter=true&random=false&width=640&height=35&lines=Yohann+YAWO+%C2%B7+Full-Stack+Architect;I+see+bugs+before+they+exist;Chidori+in+Backend+%E2%80%A2+Precision+in+Frontend;Since+I+always+win%2C+I+am+always+right." alt="Typing Sokka04" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=EF4444&center=true&vCenter=true&width=720&height=40&lines=Yohann+YAWO+%C2%B7+Full-Stack+Architect;I+see+bugs+before+they+exist+%C2%B7+Emperor+Eye;Chidori+in+Backend+%E2%80%A2+Precision+in+Frontend;Since+I+always+win%2C+I+am+always+right." alt="Typing Sokka04" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Outlook-Contact-161B22?style=flat-square&logo=microsoft-outlook&logoColor=0078D4" alt="Email" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sokka04&label=VIEWS&color=DC2626&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sokka04&label=VIEWS&color=dc2626&style=flat-square" alt="Views" />
 </p>
 
 </div>
@@ -78,7 +78,7 @@
 ### Statistiques de Combat
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Sokka04&show_icons=true&title_color=ef4444&text_color=e2e8f0&icon_color=dc2626&bg_color=0d1117&border_color=b91c1c&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Sokka04&show_icons=true&title_color=ef4444&text_color=e2e8f0&icon_color=dc2626&bg_color=0d1117&border_color=b91c1c&include_all_commits=true&count_private=true&custom_title=SARAMBA%20YOHANN%20YAWO&hide_rank=true" alt="Statistiques GitHub" />
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sokka04&layout=compact&title_color=ef4444&text_color=e2e8f0&bg_color=0d1117&border_color=b91c1c" alt="Top Langages" />
 </div>
 
